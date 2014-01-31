@@ -59,6 +59,7 @@ function seomix_redirect_author_pagination () {
   if ( is_author () && ( $paged >= 2 || $page >= 2 ) ) {
     $url = get_author_posts_url( get_the_author_meta ( 'ID' ) );
     wp_redirect( $url , '301' );
+    die;
   }
 }
 add_action( 'template_redirect', 'seomix_redirect_author_pagination' );
