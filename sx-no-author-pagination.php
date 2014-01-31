@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:  SX No author Pagination
-Version:      1.0
+Version:      1.1
 Plugin URI:   http://www.seomix.fr
 Description:  SX No author Pagination removes properly any author pagination and redirects useless paginated content.
 Availables languages : en_EN
