@@ -30,7 +30,7 @@ No configuration is necessary. Upload, activate and done.
 == Changelog ==
 
 = 1.1 =
-* security rules added (thanks to Julio Potier : http://profiles.wordpress.org/juliobox/)
+* security rules added (thanks to Julio Potier : http://profiles.wordpress.org/juliobox/ )
 
 = 1.0 =
 * first release
