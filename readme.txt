@@ -1,7 +1,7 @@
 === SX No author Pagination ===
 
 Plugin Name:  SX No author Pagination
-Version:      1.2
+Version:      1.2.1
 Plugin URI:   http://www.seomix.fr
 Description:  SX No author Pagination removes properly any author pagination and redirects useless paginated content.
 Usage: No configuration necessary. Upload, activate and done.
@@ -28,6 +28,9 @@ If you want to contribute, check this link : https://bitbucket.org/rochdaniel/sx
 No configuration is necessary. Upload, activate and done.
 
 == Changelog ==
+
+= 1.2.1 =
+* Found a better way to add compatibility check https://github.com/BoiteAWeb/ActivationTester
 
 = 1.2 =
 * Adding compatibily check (http://wptavern.com/how-to-prevent-wordpress-plugins-from-activating-on-sites-with-incompatible-hosting-environments)
