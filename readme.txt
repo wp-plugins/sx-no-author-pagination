@@ -11,7 +11,7 @@ Author: Confridin
 Author URI: http://www.seomix.fr
 Contributors: Confridin
 Requires at least: 3.3
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 License: GPL v3
 
