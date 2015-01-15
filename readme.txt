@@ -21,6 +21,8 @@ SX No author Pagination removes properly any author pagination and redirects use
 
 With SX No author Pagination, you can easily remove properly any author pagination. It also redirects useless paginated content on author pages.
 
+It's really usefull for SEO purposes, because it removes duplicated content on author pages.
+
 If you want to contribute, check this link : https://bitbucket.org/rochdaniel/sx-no-author-pagination, or contact me on http://www.seomix.fr
 
 == Installation ==
