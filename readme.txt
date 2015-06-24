@@ -1,5 +1,4 @@
 === SX No author Pagination ===
-
 Plugin Name:  SX No author Pagination
 Version:      1.2.1
 Plugin URI:   http://www.seomix.fr
@@ -9,6 +8,7 @@ Availables languages : en_EN
 Tags: author, pagination
 Author: Confridin
 Author URI: http://www.seomix.fr
+Donate link: http://www.seomix.fr/dons/
 Contributors: Confridin
 Requires at least: 3.3
 Tested up to: 4.2
